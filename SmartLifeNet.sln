@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartLifeNet", "SmartLifeNet\SmartLifeNet.csproj", "{706A2CB5-6CF6-471B-8DA7-A12B12039E14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartLifeNetTests", "SmartLifeNetTests\SmartLifeNetTests.csproj", "{D71B9EC1-262A-46E4-8A3C-7639941CB451}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{706A2CB5-6CF6-471B-8DA7-A12B12039E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706A2CB5-6CF6-471B-8DA7-A12B12039E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706A2CB5-6CF6-471B-8DA7-A12B12039E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706A2CB5-6CF6-471B-8DA7-A12B12039E14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D71B9EC1-262A-46E4-8A3C-7639941CB451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D71B9EC1-262A-46E4-8A3C-7639941CB451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D71B9EC1-262A-46E4-8A3C-7639941CB451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D71B9EC1-262A-46E4-8A3C-7639941CB451}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {404B1F52-C319-4342-A43D-3DBB0E0CC2BF}
+	EndGlobalSection
+EndGlobal
